@@ -270,7 +270,7 @@ A single-modal method that uses pathological features as input. The structure is
 python ./survival_modeling/train.py --task [KIRC,LUNG,BRAT] --fold [0,1,2,3,4] --model Path_MIL
 ```
 
-For lung and brain tumors, we provided pretrained weights here for reproducibility.
+For lung and brain tumors, we provided pretrained weights [here](https://zenodo.org/records/13938584) for reproducibility.
 
 We also provided a running demo in `./demo/PaRa-MIL_demo.ipynb`.
 
@@ -282,7 +282,7 @@ We also provided a running demo in `./demo/PaRa-MIL_demo.ipynb`.
 python ./union_training/train.py --fold [0,1,2,3,4]
 ```
 
-We provided pretrained weights here for reproducibility, and present a demo for inference in `./demo/union_training_demo.ipynb` .
+We provided pretrained weights [here](https://zenodo.org/records/13938584) for reproducibility, and present a demo for inference in `./demo/union_training_demo.ipynb` .
 
 ### V. Transfer Learning
 
@@ -314,7 +314,7 @@ Then, train the PaRa-MIL structure with coattention weights frozened.
 python ./transfer_learning/train.py --task ["LIHC", "HSOC", "STAD", "BLCA"]
 ```
 
-We provided pretrained weights here for reproducibility, and present a demo for inference in `./demo/transfer_learning_demo.ipynb` .
+We provided pretrained weights [here](https://zenodo.org/records/13938584) for reproducibility, and present a demo for inference in `./demo/transfer_learning_demo.ipynb` .
 
 ## References
 
