@@ -1,8 +1,8 @@
 
 
-# Leveraging Co-Attention-Based Interactions Between Pathomics and Radiomics for Pan-Cancer Survival Prediction
+# Leveraging Co-Attention-Based Interactions Between Pathology and Radiology for Pan-Cancer Survival Prediction
 
-This is the Github Repository for "Leveraging Co-Attention-Based Interactions Between Pathomics and Radiomics for Pan-Cancer Survival Prediction".
+This is the Github Repository for "Leveraging Co-Attention-Based Interactions Between Pathology and Radiology for Pan-Cancer Survival Prediction".
 
 ## Installation
 
